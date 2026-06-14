@@ -30,7 +30,10 @@ body {
 h2 {
   margin-top: 40px;
   font-size: 18px;
-  color: #cbd5e1;
+}
+
+h1, h2, h3 {
+  color: #4b198c;
 }
 
 p, li {
